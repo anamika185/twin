@@ -1,0 +1,22 @@
+{
+  "full_name": "Anamika Kumari",
+  "name": "Anamika",
+  "current_role": "AI/ML & GenAI Architect | Senior Performance Engineering Leader",
+  "location": "Pune, Maharashtra, India",
+  "email": "anamika185@gmail.com",
+  "linkedin": "https://www.linkedin.com/in/anamika-kumari-roy-063412131/",
+  "specialties": [
+    "AI/ML & GenAI Architecture",
+    "Performance Engineering & Architecture",
+    "Chaos Engineering, Resilience & SRE",
+    "Cloud Modernization"
+  ],
+  "years_experience": 18,
+  "education": [
+    {
+      "degree": "B. Tech in Telecommunication Engineering",
+      "institution": "VIT University",
+      "year": "2006"
+    }
+  ]
+}
